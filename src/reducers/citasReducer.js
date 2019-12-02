@@ -1,6 +1,6 @@
 //todos los reducer tienen un state
 const initialState = {
-    citas: [1,2]
+    citas: []
 };
 
 const citas = (state = initialState,action) =>{
